@@ -12,9 +12,9 @@ issueTrackerURL="http://my.issue.tracker/" #optional
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 # The modid of the mod
-modId="examplemod" #mandatory
+modId="towers_of_the_wild" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
-version="${file.jarVersion}" #mandatory
+version="1.14.4-1.2.0" #mandatory
  # A display name for the mod
 displayName="Towers_Of_The_Wild" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
